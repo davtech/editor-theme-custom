@@ -586,7 +586,7 @@ div.uploader,
 .nav-menu ul li a:hover,
 .nav-menu ul li:hover > a, 
 .nav-menu ul li a.selected {
-	color: #C9B69B; 
+	color: #da6137; 
 	}
 
 /* MOBILE MENU */
@@ -802,7 +802,7 @@ div.uploader,
         content : ""; position: absolute; top: 4px; left: 7px; width: 12px; height: 12px; border: 3px solid #DAD8D1; outline : 4px solid #fff; border-radius: 50%; background: #fff;
         }
 	.event.current:after {
-        border-color: #C9B69B;
+        border-color: #da6137;
 		}
     .event h2 {
  		margin-left: .6em; margin-bottom: .4em; font-size: 1.3em; font-weight: 400; letter-spacing: 1px;
@@ -814,7 +814,7 @@ div.uploader,
         margin:0; 
         }	
 	.event .date {
-        display: block; color: #C9B69B; font-size: .875em; margin-bottom: 1em;
+        display: block; color: #da6137; font-size: .875em; margin-bottom: 1em;
 		}
 	.timeline .event:last-child {
 		padding-bottom: 0;
@@ -1115,11 +1115,11 @@ div.uploader,
  			color: #DAD8D1; font-size: 11px; letter-spacing: .05em; font-weight: bold; padding: 6px 10px; border: 2px solid #fff;
 			}
 		.filters li a:hover {
- 			color: #AB977A;
+ 			color: #da6137;
 			}
         .filters .current a,
         .filters .current a:hover {
-            border-color: #E9E6DF; color: #AB977A;
+            border-color: #E9E6DF; color: #da6137;
             }
 
 /* HEADER LINKS */
@@ -1271,7 +1271,7 @@ input[type=submit]:hover i,
 input[type=button]:hover i,
 button:hover i,
 a.button:hover i {
- 	color: #C9B69B; border-color: #C9B69B;
+ 	color: #f57a4f; border-color: #f57a4f;
 	}
 input[type=submit]:active,
 input[type=button]:active,
@@ -2065,7 +2065,7 @@ img + .mejs-audio {
  		width: 50%; float: left;
 		}
 	.navigation a {
- 		display: inline-block; padding: 1em 1.4em; border: 2px solid #E9E6DF; font-weight: 700; font-size: 11px; line-height: 1.3;
+ 		display: inline-block; padding: 1em 1.4em; border: 2px solid #da6137; font-weight: 700; font-size: 11px; line-height: 1.3;
 		}
 	.navigation .nav-next {
  		text-align: right;
@@ -2174,7 +2174,7 @@ img + .mejs-audio {
 	padding: 2em 0 1em 0; 
 	}
 	.nav-single h4 {
-		float: left; font-weight: 700; display:inline-block; letter-spacing: 3px; font-size: 13px; padding-bottom: .2em; border-bottom: 2px solid #E9E6DF;
+		float: left; font-weight: 700; display:inline-block; letter-spacing: 3px; font-size: 13px; padding-bottom: .2em; border-bottom: 2px solid #da6137;
 		}
 	.nav-single a {
         display: block; clear: both; float: left; max-width: 240px; width: 100%; margin-bottom: 1em;
@@ -2700,7 +2700,7 @@ footer.entry-meta a {
 
 /* tag cloud widget */
 .tagcloud a { 
-    color: #AB977A; font-size: 13px !important; margin: 0 1px 7px 0; display: inline-block; padding: .5em .9em; line-height: 1; border: 1px solid #E9E6DF;
+    color: #da6137; font-size: 13px !important; margin: 0 1px 7px 0; display: inline-block; padding: .5em .9em; line-height: 1; border: 1px solid #E9E6DF;
     }
 
 /* categories widget */
@@ -2818,13 +2818,13 @@ footer.entry-meta a {
 	margin-top: 10px; text-align: center; -webkit-tap-highlight-color: transparent;
 	}
 .owl-theme .owl-nav div {
-	position: absolute; top: 50%; margin-top: -13px; left: 20px; color: #fff; background: #AB977A; font-size: 11px; padding: 4px 8px; display: inline-block; cursor: pointer; text-transform: uppercase; font-weight: 700; letter-spacing: 2px; 
+	position: absolute; top: 50%; margin-top: -13px; left: 20px; color: #fff; background: #da6137; font-size: 11px; padding: 4px 8px; display: inline-block; cursor: pointer; text-transform: uppercase; font-weight: 700; letter-spacing: 2px; 
 	}
 .owl-theme .owl-nav div.owl-next {
 	right: 20px; left: auto; 
 	}
 .owl-theme .owl-nav div:hover {
-	background: #C9B69B;
+	background: #f57a4f;
 	}
 .owl-theme .owl-nav .disabled {
 	opacity: 0.5; cursor: default;
@@ -2846,7 +2846,7 @@ footer.entry-meta a {
 	background: #ccc;
 	}
 .owl-theme .owl-dots .owl-dot.active span {
-	background: #AB977A;
+	background: #da6137;
 	}
 .owl-title {
  	position: absolute; bottom: 14px; right: 16px; margin: 0; padding: .7em 1.2em; font-size: 12px !important; line-height: 1; background: #fff; background: rgba(255, 255, 255, 0.95);
@@ -2863,10 +2863,10 @@ body {
 	}
 /* Links */
 a {
- 	color: #AB977A;
+ 	color: #da6137;
 	}
 a:hover {
- 	color: #C9B69B;
+ 	color: #f57a4f;
 	}
 
 /* Text Selection */
